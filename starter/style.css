@@ -18,18 +18,3 @@ body {
     border-radius: 6px;
     cursor: pointer;
 }
-#name {
-    color: #333;
-}
-
-#info-btn:hover {
-    background-color: #e0e0e0;
-}
-
-#info-btn {
-    border: 1px solid #aaa;
-}
-
-body {
-    background: #f7f7f7;
-}  explain the code
